@@ -1,0 +1,23 @@
+# Core Data & Mathematics
+numpy>=1.24.3
+scipy>=1.10.1
+pandas>=2.0.3
+
+# Network Visualization & Topology
+networkx>=3.1
+matplotlib>=3.7.2
+
+# Deep Learning (For MADRL / PPO Routing Agent)
+tensorflow>=2.14.0
+# Note: If using PyTorch instead of TensorFlow, replace above with: torch>=2.0.1
+
+# Security & Ledger (For Layer 5 DAG Authentication)
+iota-sdk>=1.0.0
+cryptography>=41.0.3
+
+# Dashboard & UI (For the interactive simulation frontend)
+dash>=2.11.1
+plotly>=5.15.0
+
+# Built-in Python libraries used (no installation required):
+# socket, threading, os, argparse, collections, heapq
