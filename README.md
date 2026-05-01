@@ -1,7 +1,3 @@
-```json?chameleon
-{"component":"LlmGeneratedComponent","props":{"height":"800px","prompt":"Create an interactive dashboard visualizing the performance of a 5-layer Wireless Sensor Network (WSN) protocol. Objective: Allow users to compare a Baseline WSN model with an advanced Neuro-Swarm (AI + UAV) model. Data State: Baseline Model (FND: 312, HND: 840, Peak PDR: 83.0%, Energy Cost: 0.15 uJ). Neuro-Swarm Model (FND: 2145, HND: 3890, Peak PDR: 99.2%, Energy Cost: 0.03 uJ). Strategy: Standard Layout. Inputs: A segmented control or tabs to switch between 'Baseline LEACH' and 'Neuro-Swarm MADRL'. Behavior: Display key metrics (First Node Dies, Half Nodes Die, Peak PDR, Avg Energy Cost) based on the selected model. Include a dynamic line chart visualizing energy decay over 5000 epochs, showing the Baseline model decaying rapidly (exponential curve) and the Neuro-Swarm model decaying much slower (linear curve). The chart should highlight the FND and HND points for the selected model. Provide a brief text summary below the chart explaining the performance difference.","id":"im_a4743012143547c4"}}
-```
-
 <div align="center">
 
 # 🌐 Neuro-Swarm WSN: The Next-Generation 5-Layer Protocol
